@@ -60,7 +60,7 @@ body {
 
 #news {
     position: absolute;
-    color: black;
+    color: white;
     left: 600px;
     bottom: 66px;
     font-family: "calibri";
@@ -76,8 +76,6 @@ body {
     font-variant: small-caps;
     font-weight: bolder;
 }
-
-
 
 .readmore button{
     border-radius: 50px;
